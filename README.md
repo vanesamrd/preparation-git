@@ -19,3 +19,8 @@ This is repository for teaching material of miniclass preparation WRI 2023
 ## End of section
 If you find another problem with your git, feel free to ask the mentor.
 
+## Another resource to learn git individually
+* [learn git with visualization](https://learngitbranching.js.org/)
+* [learn git with youtube](https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&si=weyUH7Qqk8392-6y)
+* [conventional commits message](https://www.conventionalcommits.org/en/v1.0.0/)
+
